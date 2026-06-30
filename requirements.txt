@@ -1,6 +1,6 @@
 ##we need to mention the required libraries
 Flask
-sklearn
+scikit-learn
 pandas
 numpy
 matplotlib
